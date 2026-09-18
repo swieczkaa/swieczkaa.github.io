@@ -11,15 +11,3 @@ description: "PhD Student -- KCL -- STAI CDT"
 
 url: "https://swieczkaa.github.io/"
 
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/swieczkaa"
-
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=5JODjsUAAAAJ&hl=en"
-
-    - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0009-0001-6682-7057"
