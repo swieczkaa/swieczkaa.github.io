@@ -2,5 +2,11 @@ remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 
 plugins:
   - jekyll-include-cache
-title: Maja Swieczkowska
-description: PhD Student - KCL - STAI CDT
+
+minimal_mistakes_skin: "aqua"
+
+title: "Maja Swieczkowska"
+name: "Maja Swieczkowska"
+description: "PhD Student -- KCL -- STAI CDT"
+
+url: "https://swieczkaa.github.io/"
